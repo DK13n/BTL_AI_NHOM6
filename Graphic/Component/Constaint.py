@@ -1,0 +1,3 @@
+#Size của display
+DISPLAY_WEIGHT = 1080
+DISPLAY_HEIGHT = 800
